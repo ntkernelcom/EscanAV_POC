@@ -1,5 +1,7 @@
 # EscanAV_POC
-escanAntivirus CVE (applicable to WinpkFilter versions before 3.2.9.1)
+escanAntivirus CVE issue
+
+The same problem was applicable to WinpkFilter versions before 3.2.9.1
 
 CVE-2018-6201     eScanAV
 
